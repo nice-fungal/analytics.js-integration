@@ -1,6 +1,6 @@
 {
-  "name": "@segment/analytics.js-integration",
-  "version": "3.3.1",
+  "name": "@lattebank/analytics.js-integration",
+  "version": "3.3.1-1",
   "description": "Base factory for analytics.js integrations",
   "keywords": [
     "analytics.js",
@@ -11,16 +11,8 @@
     "eslint": "eslint ./lib/*.js; exit 0",
     "test": "make test"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/segmentio/analytics.js-integration"
-  },
-  "author": "Segment <friends@segment.com>",
-  "license": "SEE LICENSE IN LICENSE",
-  "bugs": {
-    "url": "https://github.com/segmentio/analytics.js-integration/issues"
-  },
-  "homepage": "https://github.com/segmentio/analytics.js-integration#readme",
+  "repository": "https://github.com/lattebank/analytics.js-integration",
+  "license": "MIT",
   "dependencies": {
     "@ndhoule/clone": "1.0.0",
     "@ndhoule/defaults": "2.0.1",
