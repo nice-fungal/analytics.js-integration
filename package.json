@@ -1,6 +1,6 @@
 {
-  "name": "@segment/analytics.js-integration",
-  "version": "3.2.0",
+  "name": "@lattebank/analytics.js-integration",
+  "version": "3.2.0-1",
   "description": "Base factory for analytics.js integrations",
   "keywords": [
     "analytics.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/segmentio/analytics.js-integration"
+    "url": "https://github.com/lattebank/analytics.js-integration"
   },
-  "author": "Segment <friends@segment.com>",
+  "author": "Segment <friends@segment.com>, xushuaizhe <xushuaizhe@lattebank.com>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segmentio/analytics.js-integration/issues"
+    "url": "https://github.com/lattebank/analytics.js-integration/issues"
   },
-  "homepage": "https://github.com/segmentio/analytics.js-integration#readme",
+  "homepage": "https://github.com/lattebank/analytics.js-integration#readme",
   "dependencies": {
     "@ndhoule/after": "1.0.0",
     "@ndhoule/clone": "1.0.0",
